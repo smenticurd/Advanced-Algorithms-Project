@@ -42,4 +42,4 @@ Milestone 5: Prepare documentation and deliver the final project
 
 5.2. Package the Java source code files, sample text file, tables, and documentation into a single deliverable.
 
-5.3. Submit the final project for review.
+5.3. Submit the final project for review. 
